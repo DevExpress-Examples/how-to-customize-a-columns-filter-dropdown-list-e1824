@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/AgDataGrid_CustomizeFilterDropdown/MainPage.xaml) (VB: [MainPage.xaml](./VB/AgDataGrid_CustomizeFilterDropdown/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AgDataGrid_CustomizeFilterDropdown/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AgDataGrid_CustomizeFilterDropdown/MainPage.xaml))
+* [Products.cs](./CS/AgDataGrid_CustomizeFilterDropdown/Products.cs) (VB: [Products.vb](./VB/AgDataGrid_CustomizeFilterDropdown/Products.vb))
+<!-- default file list end -->
 # How to Customize a Column's Filter Dropdown List
 
 
